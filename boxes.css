@@ -1,0 +1,42 @@
+.parent-container {
+    width: 600px;
+    height: 800px;
+    display: flex;
+}
+
+.aqua {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    border:white solid 5px;
+}
+
+.yellow {
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    border:white solid 5px;
+
+}
+
+.red {
+    width: 400px;
+    height: 400px;
+    background-color: red;
+    border:white solid 5px;
+}
+
+.blue {
+    width: 200px;
+    height: 400px;
+    background-color: blue;
+    margin-left: -200px;
+    border:white solid 5px;
+}
+
+.green {
+    width: 200px;
+    height: 800px;
+    background-color: lightgreen;
+    border:white solid 5px;
+}
